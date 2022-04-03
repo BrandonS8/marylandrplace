@@ -1,4 +1,4 @@
-#How to install
+# How to install
 
 Install TamperMonkey: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
